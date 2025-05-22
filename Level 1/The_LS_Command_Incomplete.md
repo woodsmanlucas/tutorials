@@ -26,7 +26,7 @@ Then after that it lists the file permissions for the owner this is the next thr
 
 I wrote this command myself. Try it out, then let's open this file in gedit. Type the following into the terminal:
 `gedit ~/bin/hello`
-This should open a window of gedit. You should see a file with one line: `echo 'hello'`. `echo` is the bash command for tell me essentially and then it is followed by hello in quotes. The quotes tell the computer when to start and stop reading. They are kind of like bookmarks. Everything between the quotes is called a string. Strings are a common type of data computers use. You can change this string to `'hello world'` and we can rerun the command.
+This should open a window of gedit. Unless you are on wsl in which case you should use nano see nano getting started. You should see a file with one line: `echo 'hello'`. `echo` is the bash command for tell me essentially and then it is followed by hello in quotes. The quotes tell the computer when to start and stop reading. They are kind of like bookmarks. Everything between the quotes is called a string. Strings are a common type of data computers use. You can change this string to `'hello world'` and we can rerun the command.
 
 This is basically the simplest of code files or programs. But I digress, let's get back on topic. After the owner permissions there are the Group permissions (those are the next 3 letters), and finally there are the user permissions.
 
