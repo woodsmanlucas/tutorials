@@ -1,0 +1,1 @@
+Before doing this tutorial you should have done the tutorials Html & Css Intro and Javascript console log. 
