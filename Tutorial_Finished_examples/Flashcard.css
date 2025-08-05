@@ -1,0 +1,25 @@
+#Flashcard {
+    margin: 20px 70px;
+    padding: 50px 50px;
+    height: 200px;
+    width: 50%;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    max-width: 400px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+#Hint-Button {
+    background-color: salmon;
+    border-radius: 2px;
+}
+
+#Flip-Card {
+    background-color: lightgreen;
+    border-radius: 2px;
+}
