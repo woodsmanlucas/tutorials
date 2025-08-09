@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Flashcard.css">
     <script src="Flashcard.js"></script>    
-    <title>Flashcards</title>
+    <title>Flashcard</title>
 </head>
 <body>
   <p id="Flashcard">What is the first album by The Fray called?</p>
   <div id="Buttons-Container">
-    <button id="Hint-Button">Give me a hint, please</button>
+    <button id="Hint-Button" onclick="giveHint()">Give me a hint, please</button>
     <button id="Flip-Card" onclick="flipCard()">Flip Card to see answer</button>
   </div>
+  <p id="hint"></p>
 </body>
 </html>
