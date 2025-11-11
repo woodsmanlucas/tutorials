@@ -1,4 +1,4 @@
-This is a good tutorial to start with we will go over the basics of the command line. So lets open a terminal window and begin.
+In this tutorial we will go over the basics of the command line. So lets open a terminal window and begin.
 
 First if you want to know where you are in the terminal you can ask the computer and it will tell you. The command for this is pwd. This stands for print working directory. So lets try it out:
 ```$ pwd```
